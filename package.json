@@ -1,0 +1,14 @@
+{
+  "name": "3d-pic",
+  "private":"true",
+  "scripts": {
+    "prepare": "husky install",
+    "precommit":"lint-staged"
+  },
+  "lint-staged": {
+    "src/**/*.js": "eslint"
+  },  
+  "devDependencies": {
+    "husky": "^5.1.3"
+  }
+}
