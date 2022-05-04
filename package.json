@@ -1,6 +1,6 @@
 {
   "name": "3d-pic",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "scripts": {
     "commitmsg": "validate-commit-msg",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
